@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lifeni&layout=compact" />
-
 ### 👋🏻 你好
 
 <br />
@@ -7,6 +5,10 @@
 我主要研究的方向是 Web 前端，喜欢好看的设计。
 
 我的个人网站在 [lifeni.life](https://lifeni.life/)，欢迎来看看。
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lifeni&layout=compact" />
+</a>
 
 <!--
 **Lifeni/lifeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
