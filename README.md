@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats-eight-rho.vercel.app/api/top-langs/?username=Lifeni&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lifeni&layout=compact" />
 </a>
 
 ### 👋🏻 你好
