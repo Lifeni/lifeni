@@ -1,4 +1,4 @@
-<a href="https://github.com/Lifeni">
+<a href="#">
   <img align="left" src="https://file.lifeni.life/placeholder.png" />
 </a>
 
