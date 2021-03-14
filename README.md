@@ -1,1 +1,1 @@
-![Banner](./banner.svg)
+[![你好，我主要研究的方向是 Web 前端，喜欢好看的设计，我的个人网站在 lifeni.life，欢迎来看看](./Hello.svg)](https://lifeni.life)
