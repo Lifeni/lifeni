@@ -17,4 +17,4 @@
 <br />
 <br />
 
-<samp> > deno run hello.ts </samp>
+<samp> :) </samp>
